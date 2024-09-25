@@ -1,0 +1,32 @@
+body{
+    background-color: #1B2838;
+}
+.navbar{
+    background-color: #2C3E50;
+  }
+.navbar-nav li{
+    padding-left:30px;
+    padding-right:30px;
+}
+#caro-div{
+    width: 800px;
+}
+#resize-img{
+    object-fit: cover;
+    height: 480px;
+}
+.card{
+    background-color: #F2F2F2;
+}
+.btn{
+    background-color: #2C3E50 !important;
+}
+.btn:hover{
+    background-color: #8064A2 !important;
+}
+.icon-link{
+    color: white !important;
+}
+.icon-btn:hover{
+    background-color: #8064A2 !important;
+}
